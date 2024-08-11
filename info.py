@@ -17,7 +17,7 @@ API_ID = int(environ.get('API_ID', '20960273'))
 API_HASH = environ.get('API_HASH', '2499b0fe38d8a82dd9e4da904363d029')
 BOT_TOKEN = environ.get('BOT_TOKEN', '7208635597:AAHTvbFt-BNKhTXo6Rx-MDYZSGQK9DQQl8A')
 
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5397893493 1825323355').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1825323355').split()]
 USERNAME = environ.get('USERNAME', "https://t.me/Jack_Sparrow_Movies_Bot")
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002235208652'))
 MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/+xVbkfV8bN8BmZjZl')
