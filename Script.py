@@ -1,10 +1,10 @@
 class script(object):
     START_TXT = """<b> 🎭hey {} {},
     
-<blockquote>ᴍY ɴAME ɪꜱ ᴀᴊ ᴄɪɴᴇᴍᴀꜱ ʀᴏʙᴏᴛ 🤖, ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇꜱ ᴊᴜꜱᴛ ᴇɴᴛᴇʀ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ ᴡɪᴛʜ ᴄᴏʀʀᴇᴄᴛ ꜱᴘᴇʟʟɪɴɢ ᴀɴᴅ ꜱᴇᴇ ᴍᴀɢɪᴄ... ᴅᴏɴᴛ ꜱᴇᴀʀᴄʜ ᴛʜᴇᴀᴛʀᴇ ᴘʀɪɴᴛꜱ ʏᴏᴜ ᴡᴏɴ'ᴛ ɢᴇᴛ ᴛʜᴇᴀᴛʀᴇ ᴘʀɪɴᴛꜱ ʙʀᴏ 😁 😍.✨</blockquote>
+<blockquote>ᴍY ɴAME ɪꜱ Jack Sparrow movies bot, ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇꜱ ᴊᴜꜱᴛ ᴇɴᴛᴇʀ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ ᴡɪᴛʜ ᴄᴏʀʀᴇᴄᴛ ꜱᴘᴇʟʟɪɴɢ ᴀɴᴅ ꜱᴇᴇ ᴍᴀɢɪᴄ... ᴅᴏɴᴛ ꜱᴇᴀʀᴄʜ ᴛʜᴇᴀᴛʀᴇ ᴘʀɪɴᴛꜱ ʏᴏᴜ ᴡᴏɴ'ᴛ ɢᴇᴛ ᴛʜᴇᴀᴛʀᴇ ᴘʀɪɴᴛꜱ ʙʀᴏ 😁 😍.✨</blockquote>
 <blockquote>ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛᴀɪʟs ᴜsᴇ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ 🤞🏻</blockquote>
 
-ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/aj_adminn_bot'>JACK</a>
+ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/Jack_Sparrow_Movies_Bot'>JACK</a>
 </b>"""
     
     HELP_TXT = """<b>ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..</b>"""
@@ -43,7 +43,7 @@ class script(object):
 🐍 ᴄᴏᴅɪɴɢ ᴍᴜsᴄʟᴇs : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ 3</a>
 😚 ᴍʏ ᴛʀᴜsᴛʏ sᴛᴇᴇᴅ: <a href="https://github.com/Mayuri-Chan/pyrofork">ᴘʏʀᴏғᴏʀᴋ</a>
 🙏🏻 ᴍʏ ᴄʀᴇᴀᴛᴏʀ : ADITYA
-🤡 ᴍʏ ᴍᴀɴᴀɢᴇʀ : <a href="https://telegram.me/aj_adminn_bot">JACK</a>
+🤡 ᴍʏ ᴍᴀɴᴀɢᴇʀ : <a href="https://telegram.me/Jack_Sparrow_Movies_Bot">JACK</a>
 🧑🏻‍💻 ʀᴇᴘᴏ : <a href="https://github.com/">ʟɪɴᴋ</a>
 </b>"""
     SUPPORT_GRP_MOVIE_TEXT = '''<b>ʜᴇʏ {}
@@ -106,7 +106,7 @@ User - {}"""
 ❗️ ʟᴀɴɢᴜᴀɢᴇ - {languages}</b>
 """
 
-    FILE_CAPTION = """<a href='https://t.me/AJCINEMASSOFCL'><b>ɴᴀᴍᴇ : {file_name}</b></a>"""
+    FILE_CAPTION = """<a href='https://t.me/Jack_Sparrow_Movies_Bot'><b>ɴᴀᴍᴇ : {file_name}</b></a>"""
 
     RESTART_TXT = """<b>
 📅 Dᴀᴛᴇ : <code>{}</code>
