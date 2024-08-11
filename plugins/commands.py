@@ -182,7 +182,7 @@ async def start(client:Client, message):
             InlineKeyboardButton('🫠 ᴀʙᴏᴜᴛ 🚩', callback_data='about')
         ],
         [
-            InlineKeyboardButton('url=f"https://t.me/how_to_open_linkzz/15")
+            InlineKeyboardButton('HOW TO USE THIS BOT',url=f"https://t.me/how_to_open_linkzz/15")
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(photo=START_IMG, caption=script.START_TXT.format(message.from_user.mention, get_status(), message.from_user.id),
@@ -237,7 +237,7 @@ async def start(client:Client, message):
             InlineKeyboardButton('🫠 ᴀʙᴏᴜᴛ 🚩', callback_data='about')
         ],
         [
-            InlineKeyboardButton('url=f"https://t.me/how_to_open_linkzz/15")
+            InlineKeyboardButton('HOW TO USE THIS BOT',url=f"https://t.me/how_to_open_linkzz/15")
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         return await message.reply_photo(photo=START_IMG, caption=script.START_TXT.format(message.from_user.mention, get_status(), message.from_user.id),
